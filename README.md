@@ -18,3 +18,5 @@
 sudo apt-get install php-curl
 composer install
 ```
+
+Функция описана в файле index.php
